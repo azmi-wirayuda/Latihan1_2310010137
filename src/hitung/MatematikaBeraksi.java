@@ -3,6 +3,7 @@ package hitung;
 
 
 public class MatematikaBeraksi {
+    
     public static void main(String[] args) {
         
         Matematika azmi = new Matematika(3,7);
